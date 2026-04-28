@@ -237,9 +237,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👨‍💻 Author
 Your Name
 
-GitHub: @your-username
-LinkedIn: Your LinkedIn
-Email: your.email@example.com
+GitHub: YUVRAJ021
+LinkedIn: Yuvraj Kethuniya
+Email: yuvrajkethuniya@gmail.com
 🙏 Acknowledgements
 Ultralytics YOLOv8
 EasyOCR
