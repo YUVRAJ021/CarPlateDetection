@@ -235,7 +235,7 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
-Your Name
+Yuvraj Kethuniya
 
 GitHub: YUVRAJ021
 LinkedIn: Yuvraj Kethuniya
